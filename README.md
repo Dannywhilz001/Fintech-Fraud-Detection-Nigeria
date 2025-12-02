@@ -1,4 +1,6 @@
-# Fintech Fraud Detection & Analytics (50,000 Nigerian Transactions) https://ibb.co/PzGnLbL3
+# Fintech Fraud Detection & Analytics (50,000 Nigerian Transactions) 
+
+[Dashboard Preview](https://ibb.co/PzGnLbL3)
 
 Real-world Nigerian fintech fraud detection & analytics system built from scratch using a fully synthetic, realistic 50,000-transaction dataset  
 Detects fraud using *velocity, channel risk, amount thresholds, merchant scoring* — exactly how Opay, Moniepoint & Kuda do it.
